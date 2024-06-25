@@ -1,0 +1,19 @@
+.nav {
+    
+    display: flex;
+    padding: 20px;
+}
+
+.botao {
+    display: inline-block;
+    width: 30px; /* Largura desejada */
+    height: 30px; /* Altura desejada */
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px; /* Espaçamento interno */
+  }
+  
+  .botao img {
+    width: 100%; /* Faz a imagem ocupar 100% do espaço do botão */
+    height: 100%; /* Faz a imagem ocupar 100% do espaço do botão */
+  }
